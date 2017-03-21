@@ -1,0 +1,8 @@
+4
+A B C D
+5
+A B 11
+A D 3
+B C 8
+C A 14
+D C -19
